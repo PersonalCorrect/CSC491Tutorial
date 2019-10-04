@@ -3,6 +3,6 @@ numpy
 scipy
 scikit-learn
 pandas
-tensorflow
+tensorflow==1.13.1
 imblearn
 matplotlib
